@@ -1,7 +1,0 @@
-C:\Users\Win7\Desktop\CMZWorldConverter\ConsoleApp1\bin\Release\ConsoleApp1.exe
-C:\Users\Win7\Desktop\CMZWorldConverter\ConsoleApp1\bin\Release\ConsoleApp1.pdb
-C:\Users\Win7\Desktop\CMZWorldConverter\ConsoleApp1\bin\Release\DNA.Common.dll
-C:\Users\Win7\Desktop\CMZWorldConverter\ConsoleApp1\obj\x86\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Users\Win7\Desktop\CMZWorldConverter\ConsoleApp1\obj\x86\Release\ConsoleApp1.csproj.CopyComplete
-C:\Users\Win7\Desktop\CMZWorldConverter\ConsoleApp1\obj\x86\Release\ConsoleApp1.exe
-C:\Users\Win7\Desktop\CMZWorldConverter\ConsoleApp1\obj\x86\Release\ConsoleApp1.pdb
